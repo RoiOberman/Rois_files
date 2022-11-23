@@ -1,0 +1,43 @@
+
+
+#table1 ,td ,th{
+    border:solid; 
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+#table2 ,td ,th
+{
+    border:solid; 
+    width: 100%;
+    table-layout: fixed;
+}
+ h1{text-align: center;
+    text-decoration: underline;
+    width: 15cm;
+    margin-right: auto;
+    margin-left: auto
+}
+th{color:blue;
+    border:solid black;
+}
+
+td{ text-align: right;
+    
+ 
+}
+#times{text-align: center;
+width: 1.5cm;
+}
+mark{background-color: blueviolet;}
+
+
+td:hover {
+    background-color: aquamarine;
+    font-weight:bold;
+    color: darkred;
+
+}
+ h1:hover{
+   background-color: aquamarine;
+}

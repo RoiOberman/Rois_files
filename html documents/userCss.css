@@ -1,0 +1,32 @@
+body{background-color: rgba(80, 24, 13, 0.715);
+}
+
+.div{background-color: darkkhaki;width:12cm;
+    height:12cm;border:solid rgba(3, 44, 3, 0.888) 0.2cm;
+    border-radius: 3cm;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#h1 {
+    color:darkred ;font-size: 30px;
+    border:solid darkred ;
+    border-radius: 0.2cm;
+    width:5cm;
+    text-align: center;
+    
+}
+ img{
+    border:solid 0.1cm rgb(95, 58, 10);
+    border-radius: 100%;
+
+}
+#p 
+{text-align:center ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+    
+}

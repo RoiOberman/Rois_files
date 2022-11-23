@@ -1,0 +1,28 @@
+body{ background-color: bisque;}
+h1{color:indigo;
+    background-color:rgb(122, 209, 0);
+    width: 264px;
+     border:solid 4px darkred;
+      border-radius: 0.40cm;
+    }
+    h2{ color:indigo;
+        background-color:rgb(122, 209, 0);
+        width: 200px;
+         border:solid 4px darkred;
+         border-radius: 0.40cm;
+        }
+        h3 
+        { color:indigo;
+            background-color:rgb(122, 209, 0);
+            width: 155px; 
+            border:solid 2px darkred; 
+            border-radius: 0.40cm;
+        }
+        h4{font-size:35px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+             color: burlywood; 
+             background-color:darkgreen;
+             width: 305px;
+              border:dotted 2px darkred ;
+               border-radius: 0.40cm;
+            }
